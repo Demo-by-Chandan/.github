@@ -2,6 +2,4 @@
 
 This organization has the necessary demo materials prepared.
 
-<table>
-
-</table>
+<a href="https://demo-materials.chandanbhagat.com.np" target="_blank">Demo Materials</a>
